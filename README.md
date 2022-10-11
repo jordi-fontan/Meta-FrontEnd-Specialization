@@ -1,9 +1,23 @@
 # Meta-FrontEnd-Specialization
 ## Meta Front End Specialization from Coursera 
 
+### What you will learn
 
-About this Professional Certificate
-583,465 recent views
+1. Create a responsive website using HTML to structure content, CSS to handle visual style, and JavaScript to develop interactive experiences. 
+
+2. Learn to use React in relation to Javascript libraries and frameworks.
+
+3. Learn Bootstrap CSS Framework to create webpages and work with GitHub repositories and version control.
+
+4. Prepare for a coding interview, learn best approaches to problem-solving, and build portfolio-ready projects you can share during job interviews.
+
+
+### Skills you will gain
+
+`Cascading Style Sheets (CSS)`     `HTML`     `UI/UX design`
+`React`     `JavaScript`     `Web Development Tools`
+`User Interface`      `Front-End Web Development`     `HTML and CSS`
+`Responsive Web Design`     `Test-Driven Development`     `Object-Oriented Programming (OOP)`
  
 
 > This 9-course program, designed by the software engineering experts at Meta, will prepare you for a career as a front-end developer. Once you complete the program, you’ll get exclusive access to the Meta Career Programs Job Board—a job search platform that connects you with 200+ employers who have committed to sourcing talent through Meta’s certificate programs, as well as career support resources to help you with your job search.
