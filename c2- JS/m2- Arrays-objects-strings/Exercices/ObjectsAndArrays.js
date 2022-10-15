@@ -1,9 +1,4 @@
 
-}
-
-
-
-console.log(typeof(hall))
 // array methods
 var clothes=[];
 clothes.push('shirt');
@@ -33,11 +28,24 @@ boat.height=23;
 boat['width']=12;
 
 
+// collection for
+
+for(c in boat)    console.log(c, typeof(c));
 
 
+// methods
 
 
-
-for(c in boat) { 
-   
-   console.log(c, typeof(c));
+var car = {};
+car.mileage = 98765;
+car.color = "red";
+console.log(car);
+car.turnTheKey = function() {
+    console.log("The engine is running")
+}
+car.lightsOn = function() {
+    console.log("The lights are on.")
+}
+console.log(car);
+car.turnTheKey();
+car.lightsOn()  
