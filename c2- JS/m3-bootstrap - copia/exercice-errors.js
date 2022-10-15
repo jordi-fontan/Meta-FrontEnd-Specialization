@@ -103,3 +103,6 @@ function letterFinder(word, match) {
 letterFinder([],[]);
 letterFinder(3,5);
 letterFinder('jamon','n');
+
+var result = null;
+console.log(result);
