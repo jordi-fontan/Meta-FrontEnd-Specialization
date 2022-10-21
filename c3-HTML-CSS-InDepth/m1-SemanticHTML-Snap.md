@@ -21,3 +21,14 @@
 
 ![imagen](https://user-images.githubusercontent.com/63612112/197232864-95e8ae97-054b-456c-9fcc-0bc3042b1249.png)
 ![imagen](https://user-images.githubusercontent.com/63612112/197233066-e236ce27-cef8-4bea-b1f2-4b41652d60db.png)
+
+
+### WlakThrough
+
+![imagen](https://user-images.githubusercontent.com/63612112/197237887-9272cb68-881f-42db-8ab2-f50ff426387f.png)
+
+![imagen](https://user-images.githubusercontent.com/63612112/197238144-0561528c-4fc2-4daf-91e5-142870227816.png)
+
+![imagen](https://user-images.githubusercontent.com/63612112/197239140-9b048cb6-5863-4663-844b-5a92d8baa14e.png)
+
+![imagen](https://user-images.githubusercontent.com/63612112/197239533-1e271b7c-4927-488a-850e-f3a4dd3d9ecf.png)
