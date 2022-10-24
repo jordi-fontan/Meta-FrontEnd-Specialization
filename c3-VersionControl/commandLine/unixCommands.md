@@ -54,3 +54,29 @@ Bash provides a list of commands that helps you navigate through files, view con
 |cat |Allows reading or concatenation of a file|
 |less| Displays the contents of a file one page at a time.|
 |grep |Global regular expression, allows for searching contents of files or folders|
+
+
+### Reading a File with less (bashrc and .profile)
+
+- Q to exit
+
+![imagen](https://user-images.githubusercontent.com/63612112/197472003-e87d0654-8d6c-4a8d-b409-76f320e82c09.png)
+
+### Enviroment
+
+![imagen](https://user-images.githubusercontent.com/63612112/197472276-0bcfd916-aa15-49be-a396-e497e582c1b8.png)
+
+### Editing with VIM/Write and Execute scripts
+ 
+ #### Insert Mode <i>
+    - vim testshell.sh
+        - #!/bin/bash
+        - echo "Hello World"
+
+        - :q!
+    - chmod 755 testshell.sh
+    - ./testshell.sh
+    
+    
+    
+    
