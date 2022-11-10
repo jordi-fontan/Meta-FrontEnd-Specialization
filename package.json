@@ -1,0 +1,22 @@
+{
+  "name": "meta-frontend-specialization",
+  "version": "1.0.0",
+  "description": "1. Create a responsive website using HTML to structure content, CSS to handle visual style, and JavaScript to develop interactive experiences.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordi-fontan/Meta-FrontEnd-Specialization.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordi-fontan/Meta-FrontEnd-Specialization/issues"
+  },
+  "homepage": "https://github.com/jordi-fontan/Meta-FrontEnd-Specialization#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
