@@ -1,7 +1,7 @@
 workspace.xml
 junitvmwatcher*.properties
 build.properties
-
+node_modules/
 # generated java classes and java source files
 #   manually add any custom artifacts that can't be generated from the models
 #   http://confluence.jetbrains.com/display/MPSD25/HowTo+--+MPS+and+Git
