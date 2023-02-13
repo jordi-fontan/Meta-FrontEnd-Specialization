@@ -1,7 +1,9 @@
 function Apples(props) {
+const pomaStyle={ background:"red",}
+
       return (
         <div className="promo-section">
-            <div>
+            <div style={pomaStyle}>
                 <h2>These apples are: {props.color}</h2>
             </div>
             <div>
