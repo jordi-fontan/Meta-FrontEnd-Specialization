@@ -1,0 +1,7 @@
+let a='coca'
+let b='cola'
+
+console.log('${a}-${b}');
+console.log(`${a}-${b}`);
+
+
