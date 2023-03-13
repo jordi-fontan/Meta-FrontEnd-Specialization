@@ -9,3 +9,5 @@ console.log(daddy);
 for(let x in daddy) console.log('Using for in ',x,' = ',daddy[x]);
 
 for(let y of Object.keys(daddy)) console.log('Using for of ',y,' = ',daddy[y]);
+
+JSON.
