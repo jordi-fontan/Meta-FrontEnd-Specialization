@@ -54,3 +54,42 @@ objKeys.forEach((objKeys)=>{myArr.push(objKeys,obj[objKeys])});
 console.log(myArr);
 /* [ 'a', 34, 'b', 'hello', 'myCoolMethod', [Function: myCoolMethod] ]
  */
+
+let food=new Map();
+food.set(1,'onions');
+food.set(2,'potatoes');
+food.set('extra','olives');
+console.log(food.get('extra'));
+console.log(food.get(1));
+
+
+/* Working with Sets */
+const repetitiveFruits = ['apple','pear','apple','pear','plum', 'apple'];
+const uniqueFruits = new Set(repetitiveFruits);
+console.log(uniqueFruits);
+
+// Set(3) { 'apple', 'pear', 'plum' }
+
+uniqueFruits.add('melon');
+if(uniqueFruits.has('plum')) console.log('Plum found'); //true
+uniqueFruits.delete('apple');
+console.log(uniqueFruits);
+// Set(3) { 'pear', 'plum', 'melon' }
+
+//Rest operator
+const meal = ["soup", "steak", "ice cream"]
+let [starter,main] = meal;
+console.log(starter);
+console.log(main);
+//soup, starter
+
+
+let obj3 = {
+    key: 1,
+    value: 4
+};
+
+let output = { ...obj3 };
+output.value -= obj3.key;
+
+console.log(output.value);

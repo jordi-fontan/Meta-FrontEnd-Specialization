@@ -1,0 +1,30 @@
+const car={
+    color:'red',
+    maxSpeed:100
+}
+
+//entries
+for(var entry of Object.entries(car)){
+    let name=entry[0];
+    let value=entry[1];
+    console.log(name,'=',value);
+ 
+}
+
+//deconstructing entries
+for(var entry of Object.entries(car)){
+    let {name,value}=entry;
+    
+    console.log(name,'=',value);
+ 
+}
+// key + object Notation
+for(var key of Object.keys(car)){
+    
+    
+    console.log(key,'=',car[key]);
+ 
+}
+//random acces
+let rand= Math.random()<0.5?'color':'maxSpeed';
+console.log('Accessing a random propertie',rand,'  ',car[rand]);
