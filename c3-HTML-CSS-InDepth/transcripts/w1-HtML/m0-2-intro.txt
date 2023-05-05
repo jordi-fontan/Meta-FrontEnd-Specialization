@@ -1,0 +1,47 @@
+Hello and welcome to this
+course on HTML and CSS. Every day when you
+browse the Internet, you're interacting with
+HTML and CSS code. By now, you probably know a little bit about
+how that works. If you're taking this course, you want to find out
+even more. That's great. There will be a short
+overview of HTML and CSS just after
+this introduction. But first, let's briefly go through what you'll be
+doing in this course. You'll start off by learning how HTML is used in the real-world. This includes learning about semantic and Meta tags
+and the importance of having a structured
+approach so that you can create well-formed
+web pages. Next up are user
+input and forms. In this part of the course, you will create and test
+a form by yourself. You will learn about
+advanced input types, how to validate input, and provide feedback to improve the user experience of a form. But what would the
+web be without media? The next HTML section will focus on bringing websites to life with media elements. You will learn how to embed video and audio players
+and even iframes. Following the module about HTML, is when all about CSS. This part of the course will
+go beyond basic styling. You will learn how to create layouts with grids
+and flex boxes. You will also learn about CSS
+selectors and how you can combine them to refine the styling of elements
+on your web pages. Not only that, but you'll
+also learn how to use pseudo-class
+selectors to improve the interactivity of a web page. But there's even more. You will learn how
+to add effects on web pages using purely CSS and you will cover basic transform and
+transition animations, as well as more advanced
+animations using key frames. Next, you will learn how to use browser developer tools and UI testing to debug
+HTML and CSS code. The final part of the module is about the graded assessment. For this assessment, you
+will build a homepage for a fictional
+company and you'll get an opportunity to review
+your classmates projects as well since this is a
+peer graded assignment. There are many videos
+in the course that will gradually guide you towards your goal of becoming
+a developer. Watch, pause, rewind, and re-watch the videos until you are confident
+in your skills. Then consolidate your knowledge by consulting the
+course readings and putting your skills into practice during the
+course exercises. Along the way, you'll
+encounter several knowledge quizzes where you can
+self check your progress. Remember, you're not alone in considering a career
+as a developer, which is why you'll also
+work with course discussion prompts that help you to
+connect with your classmates. It's a great way to
+share knowledge, discuss difficulties, and grow a network of contacts in
+the web development world. You have probably encountered a few new words and technical
+terms in this video. Don't worry if you don't fully understand all these
+terms right now. Everything will
+become clearer soon. After all, this is part of the reason why you're
+taking this course.

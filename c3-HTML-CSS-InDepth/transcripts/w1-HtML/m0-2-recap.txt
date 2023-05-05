@@ -1,0 +1,41 @@
+Perhaps you know a little about HTML and CSS from
+another course you did, or perhaps you don't
+know much at all. Either way, a quick
+summary will be useful. So let's explore some basic HTML and CSS principles
+and practices. HTML stands for Hypertext
+Markup Language. But what does that mean? Hypertext is text which
+contains links to other text. Markup refers to tags and elements used within a document. HTML elements with their
+opening and closing tags in angle brackets make
+up an HTML document. These elements form
+the structure of a webpage and describe what to display to
+the web browser. When it comes to HTML, it's important to know about the purpose of HTML
+in the web browser. The use of HTML tags
+and correct syntax, and how HTML elements are
+used in a web document. But what can you do with HTML? You can add images to a
+web page with HTML code. You can use it to
+display data in tables, and you can build forms with
+a wide range of inputs. Also, using the
+correct HTML structure and appropriate elements as a foundation is
+an essential part of building accessible websites. HTML can assist in ensuring web accessibility
+by supporting the technology people
+with disabilities use to interact with and
+understand websites. Another important concept to know about when
+you're talking about HTML is the Document
+Object Model or DOM. Users need to be able to interact with elements
+on a web page. This means that HTML
+document must be represented in a way that JavaScript code can
+query and update it. That's the function of the DOM. It's a model of the
+objects in your HTML file. Web developers
+interact with the DOM through JavaScript
+to update content, set up events and
+animate HTML elements. Now that you've covered
+the basics of HTML, let's move on to CSS or
+Cascading Style Sheets. If HTML is the frame and
+structure of a building, then CSS is the paint, wallpaper, fixtures,
+and overall style. CSS tells the web browser how to display HTML elements on screen. You use CSS to style elements
+within an HTML document, create an appealing layout for your webpage using
+the box model, and arrange page elements
+using normal document flow. That was your HTML
+and CSS refresher. Now get ready to
+dive deeper into learning more about
+these two topics.
