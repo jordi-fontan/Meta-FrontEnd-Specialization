@@ -1,0 +1,73 @@
+When was the last time
+you used a search engine? Probably in the last few hours or minutes. Perhaps you just wanted to
+quickly look something up or maybe you needed more in
+depth information on a topic. Either way, the search engine you used
+will have returned a list of results that were most relevant to
+what you searched for. But how does a search
+engine determine which web pages are most relevant in this video? You will learn how search
+engines analyze web pages and how meta tags help provide information for
+search engines. A major part of launching a website
+is a process called search engine optimization or SEO. This process involves making improvements
+to a website's content semantics and delivery to improve its
+ranking in search results. You might be wondering what exactly
+does a search engine do when it analyzes a web page? Well when a search engine
+visits your website, it analyzes the html document and
+media content. If it finds a link to
+another html document, it follows the link to that document and continues following links until it is
+finished analyzing the entire website. Based on the results of the analysis and
+the content on your website, the search engine will rank
+the website for various search terms. So while your website might be the number
+one result for one search term, it could rank very low for another. Every search engine has its own
+algorithm for ranking websites. And while it's not disclosed how
+the ranks are determined, there are many best practices you can follow to
+influence how search engines analyze and rank your website. But for now let's just focus on how
+meta tags influence website ranking. Meta tags define metadata
+about a web page. What is metadata? You ask? It's data about other data which in
+this case is data about the web page. Meta tags are added inside the head
+element of your html document and as you know, nothing inside the head
+element is displayed in the web browser. In other words, meta tags are unseen
+elements within the browser. Note that there is no closing tag for
+the meta tag. The meta element has two attributes,
+name and content. The name attribute specifies
+the name of the metadata and the content attribute specifies
+the value of the metadata. Let's examine some examples of metadata. The author metadata specifies
+the author of the web page. The name attribute is author and
+the content attribute is the person and company who are the author
+of the web page. The description metadata describes
+the content of the web page. This is often used by search engines
+as descriptive text in search results. The name attribute is
+set to description and the content attribute is
+the descriptive text. The keywords metadata was previously
+used to provide search keywords for search engines. However, this led to a lot of websites
+using the keywords metadata to manipulate search rankings. One of the major search engines
+now ignores this metadata and another uses keywords metadata as
+a spam indicator because of this, it's recommended not to include
+this metadata in modern web pages. Another type of metadata
+is the robot's metadata and it tells search engines if and
+how they should analyze your web page. The name robots comes from the automated
+software often referred to as bots, that search engines used
+to analyze websites. The content attribute for
+Robots has four possible values. Index tells the bot to analyze the page. Follow tells the bot to also
+visit all links on the web page. No index tells the bot
+not to analyze the page. Some bots will ignore this so it's best not to rely on this to stop
+bots from analyzing your page and no follow tells the bot not to
+visit links on the web page. Again, some bots will ignore this value so
+it's best not to rely on it. Finally, there's the view ports metadata. The view port metadata is important
+when designing responsive web pages. Why you might ask because when
+a web pages viewed on a phone or tablet, the device will by default
+attempt to render the web page as if it is being viewed on a desktop. This results in a poor browsing
+experience for the user. The solution is to define
+view ports metadata. There are many values available for
+view ports metadata. The most used value for the mobile
+experiences is to set the width to device dash with and the initial scale to 1.0, you can learn more about view
+ports in the additional reading. It's important to note that view port
+metadata does not solve all the issues with browsing websites on mobile devices. The other part of the solution
+is responsive web design. But we were talking about search
+engine optimization, right? View port metadata is important for
+the user experience and it's also important for
+search engine optimization. This is because many search engines now
+include websites mobile experience as a part of their ranking algorithms, there
+is more metadata that you can define on you web page to specifically improve
+its presence on social media. But that's for later video. For now it's important to know that
+author description, keywords, robots and view ports metadata all play a role in the
+search engine optimization of web pages.

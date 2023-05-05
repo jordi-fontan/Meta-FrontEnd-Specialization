@@ -1,0 +1,61 @@
+Social networks are a great tool to share content with
+friends and family, and even with coworkers
+and business partners. When you share a link, most social networks
+generate a preview of the link to let users know what the linked
+webpage is about. Now that you're
+learning more about front end web development, you're probably wondering how social networks generate
+these previews. In this video, you will
+learn how Meta tags help webpages create previews
+of other web pages. By using Meta tags to control what information is
+displayed to users, you can get more clicks when
+you share your websites. But the Meta tags web developers
+use for this purpose are different from the traditional SEO Meta tags that you learned about earlier
+in this lesson. Traditional SEO Meta tags are oriented towards search
+results, not direct links. Facebook's rapid growth
+led to millions of people sharing thousands
+of links every day. To improve the user experience, they had to find a way to
+display information about a website before a user
+clicks on the link. To address this challenge, Facebook established the
+Open Graph Protocol in 2010. The Open Graph
+Protocol is a set of Metadata rules that allow web pages to describe
+themselves to social networks. There are many Metadata options available within the protocol, but before you learn about them, let's first discuss how the Open Graph Protocol
+Metadata is defined. Earlier in this lesson, you learned that Meta
+tags are defined inside of the head element
+of an HTML document. The Open Graph Protocol also uses Meta tags added
+to the head element, but they are slightly different. Instead of the name attribute, the Open Graph Protocol uses the property attribute to
+define the Metadata name. Then, like the
+regular Meta tags, it uses the content attribute to define the Metadata value. Each property in the Open
+Graph Protocol starts with og : as a convention to identify it as an Open Graph
+Protocol related tag. The Open Graph Protocol
+requires that you must always include four
+properties on a webpage. These are title,
+type, URL, and image. The title property defines
+the title of the page, this is the text that will
+appear in the preview. The type property defines
+the type of content, such as website, video,
+music, or article. Depending on the value
+you specify as the type, other properties
+may be required. You will learn about
+these in a later video. The URL property defines
+the permanent web address that the social network must
+use for the specific page. The image property
+defines a URL to an image that must display
+when the website is shared. Together, these Open Graph
+Protocol properties enables social media platforms to create a preview of the
+shared web link. Say, you share a blog post. The title of the post
+is the og:title, the blog post URL is the og:url, and the image that
+displays is the og:image. There are several other
+optional properties that you will learn
+more about later. But let's briefly
+explore three of these. The description
+property provides a description of the webpage. The locale property
+describes the language and territory of the
+webpage's content. For example, en_US
+specifies that the page is in English and the locale is the United States. The site name property
+describes the name of the overall website that
+the webpage belongs to. You've now learned how to use Metadata to describe
+web pages so that social networks can improve user experience by
+previewing shared content. Next time you share a
+website on a social network, you can use what
+you've learned about Open Graph Protocol properties
+to generate more clicks.
