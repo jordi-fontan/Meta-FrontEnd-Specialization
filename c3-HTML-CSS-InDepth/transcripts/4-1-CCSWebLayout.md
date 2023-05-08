@@ -65,6 +65,12 @@
  -   It can also lead to increased complications later. 
  -   If the element rules are not systematically defined, there is no strict rule on choosing which layout to use
  -   in general flex boxes are more suitable when you want to create flexible elements in smaller spaces while grids are more suitable to large scale layouts.
+
+![image](https://user-images.githubusercontent.com/63612112/236801579-68c031c8-d2f8-4ae2-90b7-858b11249923.png){width=100 height=100}
+
+![image](https://user-images.githubusercontent.com/63612112/236801785-74923a5d-d973-4b01-be86-e3824838545d.png){width=100 height=100}
+
+
 -   A separate explanation of each type of layout has been given in this video, 
 -   but in practice, you'll likely encounter the use of more than one layout in rendering a single page. 
  -     The rules for these layouts and CSS are standardized but that doesn't mean you are limited when it comes to creativity, aesthetics or optimization.
