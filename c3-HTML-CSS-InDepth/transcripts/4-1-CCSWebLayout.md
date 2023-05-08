@@ -75,3 +75,5 @@
 -   but in practice, you'll likely encounter the use of more than one layout in rendering a single page. 
  -     The rules for these layouts and CSS are standardized but that doesn't mean you are limited when it comes to creativity, aesthetics or optimization.
  -    When designing a web page, you will learn more about how to use these layouts during the course
+
+![image](https://user-images.githubusercontent.com/63612112/236802327-b915720a-5a41-4a6e-b031-d45ec6ef450a.png)
