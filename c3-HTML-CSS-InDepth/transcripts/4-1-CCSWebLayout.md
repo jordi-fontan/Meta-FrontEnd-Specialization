@@ -57,14 +57,15 @@
 
  -     CSS grid is similar to the flex box except it creates a two dimensional grid along both the row and column axes. 
  -     For example, the grid rules for the sample I. D. 
- -     
- -     ![image](https://user-images.githubusercontent.com/63612112/236800007-8b3cad4f-8801-47ba-881c-3c6e08ed0570.png) {width=200 height=200}
+   
+     ![image](https://user-images.githubusercontent.com/63612112/236800007-8b3cad4f-8801-47ba-881c-3c6e08ed0570.png) {width=200 height=200}
 
- -     
+   
  -     Can be added after adding the display property with the grid as its value while the grid increases dimensionality and helps to create an advanced layout with relative ease.
- -      It can also lead to increased complications later. 
- -      If the element rules are not systematically defined, there is no strict rule on choosing which layout to use
- -     **  in general flex boxes are more suitable when you want to create flexible elements in smaller spaces while grids are more suitable to large scale layouts. **
- -       
- -         A separate explanation of each type of layout has been given in this video, but in practice, you'll likely encounter the use of more than one layout in rendering a single page. 
- -         The rules for these layouts and CSS are standardized but that doesn't mean you are limited when it comes to creativity, aesthetics or optimization. When designing a web page, you will learn more about how to use these layouts during the course
+ -   It can also lead to increased complications later. 
+ -   If the element rules are not systematically defined, there is no strict rule on choosing which layout to use
+ -   in general flex boxes are more suitable when you want to create flexible elements in smaller spaces while grids are more suitable to large scale layouts.
+-   A separate explanation of each type of layout has been given in this video, 
+-   but in practice, you'll likely encounter the use of more than one layout in rendering a single page. 
+ -     The rules for these layouts and CSS are standardized but that doesn't mean you are limited when it comes to creativity, aesthetics or optimization.
+ -    When designing a web page, you will learn more about how to use these layouts during the course
