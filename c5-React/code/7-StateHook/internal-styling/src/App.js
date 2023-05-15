@@ -9,7 +9,7 @@ const appStyle={
 
   return (
     <div style={appStyle}>
-      I have my own component style
+      <Hook />
     </div>
   );
 }
