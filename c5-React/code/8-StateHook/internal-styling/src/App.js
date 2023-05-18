@@ -1,5 +1,6 @@
 import Hook from "./Hook";
 import Form from "./Form";
+import TextInputWithFocusButton from "./TextInputWithFocus";
 
 function App() {
 
@@ -14,6 +15,8 @@ const appStyle={
       <Hook />
       <hr/>
       <Form/>
+      <hr/>
+      <TextInputWithFocusButton/>
     </div>
   );
 }
