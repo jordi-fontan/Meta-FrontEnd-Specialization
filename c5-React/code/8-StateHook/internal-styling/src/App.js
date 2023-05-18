@@ -1,4 +1,6 @@
-import Hook from "./Hook"
+import Hook from "./Hook";
+import Form from "./Form";
+
 function App() {
 
 const appStyle={
@@ -10,6 +12,8 @@ const appStyle={
   return (
     <div style={appStyle}>
       <Hook />
+      <hr/>
+      <Form/>
     </div>
   );
 }
