@@ -1,6 +1,9 @@
 import Hook from "./Hook"
 function App() {
 
+  // values inside doublequotes
+  // margin-left ----> marginLeft
+  // ; -> ,
 const appStyle={
   background:"pink",
   width:"calc(30%-10px)",
