@@ -5,14 +5,10 @@ function ModeToggler(){
     const darkText=<h1>DarkMode is on</h1>;
     const lightText=<h1>DarkMode is off</h1>;
     let darkmodeOn=false;
-    const handler=()=>{
-        console.log('Changing state');
-        darkmodeOn=!darkmodeOn}
-    
-    
+   
     return(
     <div style={darkmodeOn? darkStyle  :lightStyle}>
-      <button onClick={()=>{ console.log('Changing state');darkmodeOn=!darkmodeOn}}> Change mode</button>
+      <button onClick={()=>{ console.log('Changing state');darkmodeOn=!darkmodeOn}}> Change mode witout state (won't work)</button>
         {darkmodeOn?darkText:lightText}
         </div>
 

@@ -1,6 +1,7 @@
 import Button from './Button.js';
 import './App.css';
 import ModeToggler from './ModeToggler.js';
+import ModeTogglerStateful from './ModeTogglerStateful.js';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <div><Button/></div>      
       <hr/>
       <div><ModeToggler/></div>
+      <div><ModeTogglerStateful/></div>
     </div>
   );
 }
