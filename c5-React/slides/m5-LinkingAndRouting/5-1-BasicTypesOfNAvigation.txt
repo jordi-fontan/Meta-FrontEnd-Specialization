@@ -1,0 +1,89 @@
+In the early days of the web, there were no true
+standards for design, which meant that developers
+were often very experimental. There were various designs and experiments, but ultimately, the web development community settled on a few best practices. Today, the web is
+a mature medium. In this video, you
+will learn about the basic types of navigation on websites and how the navigation
+process works in React. Now, if you think
+about the history of web layouts and web navigation, it's likely development of other great inventions
+throughout history. For example, after the
+Wright Brothers flew the first plane in
+1903 and Kitty Hawk, North Carolina, there
+was a period of a few decades where
+engineers were experimenting with
+different designs. Planes with two or three sets of wings were the
+order of the day. Finally, after this
+initial exploration stage, airplane design settled
+down and the rules and best practices of building
+airplanes were established. Like the development of rules
+of airplane construction, after the experimental
+years of the early web, the Web Design and Development
+Community settled on a few accepted
+unexpected designs. The focus and modern website
+navigation user interfaces is on utility. Stephen Krug's famous book on user experience Don't Make Me Think sums up the rule that developers are
+following today. It's your duty as a web
+developer and designer to follow the best practices that have already
+been established. For example, a steering wheel does not belong on
+a washing machine, or an old-style phone dial
+does not belong in a car. In the same way, you
+wouldn't want to confuse your website visitors
+by giving them navigation that might
+look and feel smart, but that's completely different
+from what they used to. You might be wondering what is accepted modern
+website navigation, and how does it work in React. Website navigation
+is the parts of any website that
+allows you to browse through various
+pages or links on that website from a
+single component. There are several
+practical implementations of this user interface pattern. Let's explore each briefly now. The most common navigation
+components are, a horizontal navigation bar, a vertical navigation menu, a menu hiding behind a button, and a footer navigation menu. The horizontal navigation bar is often referred to as a navbar, and the vertical
+navigation bar is also known as a
+sidebar navigation. The menu hiding
+behind the button is usually represented
+by an icon that has three horizontal
+lines and is thus referred to as the burger
+icon or the burger menu. Alternative to this is the
+drop-down navigation menu, known as the mega menu. This menu is usually also hiding behind a button
+and it's usually used as a sub or large menu on e-commerce sites and other
+sites that require many links. The footer navigation menu
+is usually displayed as several visual columns
+containing links. All these mentioned menu
+patterns can often be used simultaneously in different
+parts of the same page. Additionally, a more
+complex navigation UI can include multiple
+navigation approaches in a single component. You may, for example, have a horizontal navigation bar or navbar with drop-down
+menu items. If you're using a
+smaller resolution, the navigation bar displays
+as a burger menu icon. When you click on
+the burger menu icon a mobile sidebar or a
+vertical menu appears. Now you're familiar with some of the navigation types that are available in your React apps. Let's explore how they are implemented to load
+different pages. If you compare the navigation
+of websites built with React against HTML and CSS, you will likely find
+no visual difference. While visually everything
+looks the same, in the code, React navigation
+works a bit differently. This is because
+the entire app is loaded inside a single div. You're not actually
+visiting different pages like you would with
+hyperlinks and HTML files. Instead, the content of that single div is
+controlled by React, and it's based on changes
+to the virtual DOM. It either updates
+the existing view or loads a completely new view, giving the user
+the impression of visiting a completely
+different URL. Recall that with HTML, developers can use a list
+to make a navigation menu. Each list item contains a
+hyperlink to an HTML file, then some CSS to style the menu, like the display inline property to make the list
+display horizontally. To help illustrate how
+React's navigation works, think about how the buttons on the inside of an elevator work. Pressing the button will take
+you to the selected floor. Similarly, each link on a website takes you to a different page.
+If you click on it. If however, you're
+in a React elevator, It says if the
+elevator never moves. Instead, when you press a button in this
+React's elevator, the entire construction
+of that given flaw is injected into a single floor
+of this impossible building. However, this
+functionality is not available to developers from
+the React's library itself. In order to achieve
+this illusion of a multi-page website, you need to add the
+React router library to your React projects. Once again, you add this using the import statement and you'll learn more about
+how to do this soon. Well done. In this video, you learned about the basic
+types of navigation on websites and how the navigation
+process works in React.
