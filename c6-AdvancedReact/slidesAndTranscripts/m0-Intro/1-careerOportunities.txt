@@ -1,0 +1,55 @@
+The keyword React is
+more popular than words like orange juice and
+renewable energy. It has been a framework that is very widely popular
+and it's something that a lot of jobs now require when they're hiring
+new engineers. My name is Murtadha.
+I'm a software engineer at Meta based in Seattle office. Just about everything
+I've built in my career at Meta has
+been built in React. If you're using any
+of the Meta products, whether you're using
+Facebook or Instagram, most likely the buttons in the menus and the clicks
+that you're making are all events and components handled by via React framework. My career at Meta, has been developing
+these components. Whether you're using
+it when a web, if you're going and
+posting a photo or if you're making a comment, all of those interactions are powered by React components
+behind the scene. Well, I think personally when
+I first discovered React, I was like, "Oh, my God, this is so cool,"
+and it just made building web applications
+so much easier. It really simplified my
+job as an engineer to write using this framework
+and it's very intuitive, it's much less error-prone. If we look at the
+trends we see in 2018, React actually rose up and exceeded what previously was the most popular web framework, which was known as jQuery, and React became the
+most search keyword. It makes sense for it
+to replace some of these older frameworks
+that are not keeping up with the
+speed of the industry. The main language
+that's used to create React components
+it's JavaScript, and there are actually
+different flavors of JavaScript that can
+be used with React. At Meta, we use a flow
+flavor of JavaScript, and that allows us to
+ensure type safety through the use of
+developing React components. But there are other ways that React components can be built. Perhaps a popular way that is common in the industry
+is using TypeScript. Besides these different ways to use React components on web, you can actually use
+React to develop mobile components
+on Android and iOS. Most recently, React
+is releasing a way for developing VR components
+like virtual reality, where people can use these same frameworks
+consistently that are used in web and mobile to develop virtual
+reality applications. The idea is to
+simplify it and allow developers to create complex virtual
+reality applications, but leverage the simplicity
+and friendliness of React. That's what has given
+the motivation to create these different
+frameworks of React across different segments
+of the industry. At this point, it's an
+integral skill that just about every job and every application you build
+will probably require. Having this knowledge will really help you through your
+career and it's going to also make your life easier to learn how to
+use such framework. My advice to you as you
+venture into this world of React is to stay consistent. It may at first seem a little complicated or overwhelming or some things may not make sense, but just power through it,
+it will make your life a lot easier to learn
+these principles. They'll make you
+much more attractive to employers in the future. Your ability to produce scalable web applications will be much better with the
+use of this framework. Keep going and don't let some of these confusing parts
+of React slow you down.
