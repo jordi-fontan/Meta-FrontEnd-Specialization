@@ -29,6 +29,15 @@ console.log(sam2);
 
 delete(sam1);
 
+//Enumerate props
 Object.keys(sam1).forEach(element => {
     console.log(`${element} ${sam2[element]}` );
 });
+
+const objSymbol={};
+const SIZE= Symbol();
+objSymbol.color='yellow';
+objSymbol['not identifier']=3;
+//objSymbol.[SIZE]=8;
+objSymbol.size=SIZE;
+console.log(objSymbol);
