@@ -1,0 +1,55 @@
+Did you know that with React, you can transform
+any list of items into a collection of
+React components? Drawing upon the
+previous example of little lemons
+list of deserts, imagine the restaurant
+would like to go one step further by providing
+its online visitors with a sneak peek at
+the best desserts in a dedicated section to
+encourage them to order. In this video, you
+will learn how to display a collection
+of elements like this with React by using the
+map function in JSX syntax. Recall that JSX is a
+special syntax extension to JavaScript that React uses to describe user
+interfaces or UIs, and that a component is a
+function that returns JSX. Now, let's explore how to render a list of
+elements with React. In this demonstration,
+I will use the list of little lemons
+best desserts again, each one having the
+following properties, ID, title, image,
+description, and price. The aim is to display a simpler version of
+this collection of top desserts by displaying
+just the title and the price. The first step is to create
+a new variable called list items to store the result of the transformation
+I'm going to perform. For that, I'm going to
+loop through the array of deserts using the
+JavaScript math function. You may be wondering
+what it should return inside the map function. Traditionally in JavaScript, you would return any datatype. When you are working
+with lists in JSX, you can also return
+a React component as the transformation
+applied to each element. You will discover how
+that's useful later on, since it will be able
+to embed the results directly into the return JSX. Recall also that all HTML tags
+are components by default. You can leverage all
+the semantic tags you already know from HTML. For list items,
+your best choice is the list item or
+LI semantic tag. I'm going to return an
+empty list item for now. Because the goal is to display the title of the
+desert and its price, I'm first going to
+create a new variable for the text named item text. I will use a dash to
+separate title and price, as well as the dot
+notation to access the needed properties
+from the desert object, which are title and price. Since this is a
+JSX transformation that will be part of the render method of this component, you have to use curly braces to wrap your data, in this case, the text for each list item, which is the value of
+our variable item text. The last step is to go to
+the render method and embed list items into the HTML
+list wrapper component, unordered list or
+UL and that's it. The deserts are displayed in
+a simple and concise way. This addition will
+certainly help little lemon
+restaurants to increase its orders. Well done. You have learned
+how to transform collections of
+elements with React by using a combination of the map function in
+JSX curly braces. With lists being one of the core building blocks
+of app development, you're now one step further in your journey to
+creating great apps.
