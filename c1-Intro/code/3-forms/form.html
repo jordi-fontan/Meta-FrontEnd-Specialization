@@ -1,73 +1,73 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
         <title>Basic Forms</title>
         <meta charset="utf-8">
-        <meta name="author" content="Jordi Fontan"/>
+        <meta name="author" content="Jordi Fontan">
     </head>
     <body> 
-        <form method="get" >
+        <form  >
             <div>
                 <h3> Text Field</h3>
                 <label for="fullname"> Full Name:</label> 
-                <input type="text" name="fullname"/>
+                <input type="text" id="fullname" name="fullname">
                 
             </div>
             <div>
                 <h3> Password:</h3>
                 <label for="password"> Password:</label> 
-                <input type="password" name="password"/>
+                <input type="password" name="password" id="password">
                 
-            </div 
+            </div> 
             <div>
                 <h3> CheckBoxes:</h3>
                
                 <label for="cat"> I own a cat</label> 
-                <input type="checkbox" name="cat" value="Cat"/>
+                <input type="checkbox" id="cat" value="Cat">
                 <span>&nbsp;</span>
                 <label for="dog"> I own a dog</label> 
-                <input type="checkbox" name="dog" value="Dog"/>
+                <input type="checkbox" id="dog" name="dog" value="Dog">
                 
             </div>  
             <div>
                 <h3> RadioButtons:</h3>
                
                 <label for="left"> I'm left-handed</label> 
-                <input type="radio" name="left" value="Left"/>
+                <input type="radio" id="left" name="left" value="Left">
                 <span>&nbsp;</span>
                 <label for="right"> I'm right-handed</label> 
-                <input type="radio" name="right" value="Right"/>
+                <input type="radio" id="right" name="right" value="Right">
                 
             </div>  
             
             <div>
                 <h3> Number:</h3>
                 <label for="age"> Age:</label> 
-                <input type="number" name="age"/>
+                <input type="number" id="age" name="age">
                 
             </div>
             <div>
                 <h3> Email:</h3>
                 <label for="mail"> e-mail:</label> 
-                <input type="email" name="mail"/>
+                <input type="email" id="mail" name="mail">
                 
             </div>
             <div>
                 <h3> File:</h3>
                 <label for="file"> File:</label> 
-                <input type="file" name="file"/>
+                <input type="file" id="file" name="file">
                 
             </div> 
             <div>
                 <h3> Textarea:</h3>
                 <label for="multiline" style="vertical-align: top;"> TextArea:</label> 
-                <textarea name="multiline" rows="5"></textarea>
+                <textarea name="multiline" id="multiline" rows="5"></textarea>
                 
             </div>
             <div>
                 <h3> Select:</h3>
                 <label for="selection" style="vertical-align: top;"> Selection:</label> 
-                <select name="selection" multiple size="4">
+                <select id="selection" name="selection"  multiple size="4">
                     <option>Chocolate</option>
                     <option>Cream</option>
                     <option>Vanilla</option>
@@ -78,9 +78,9 @@
                 
             </div>
             <div>
-                <br/>
+                <br>
                 <h3 style="display: inline;"> Button:  </h3>               
-                <input type="submit" />
+                <input type="submit" >
                 
             </div>
         </form>
